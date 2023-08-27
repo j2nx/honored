@@ -1,2 +1,2 @@
 # honored
-Skidded replit discord bot made by `notyurrion` leaked by `j__x`
+Skidded replit discord bot made by `nottyurrion` leaked by `j__x`
